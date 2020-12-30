@@ -21,4 +21,5 @@ int main() {
     if (istrm >> n >> s)                               // ÎÄ±¾ÊäÈë
       std::cout << "read back from file: " << d << ' ' << n << ' ' << s << '\n';
   }
+  return 0£» 
 }
