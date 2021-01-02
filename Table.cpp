@@ -14,5 +14,5 @@ int main() {
   tb1.show();
   tb1.delColumn(1);
   tb1.show();
-  return 0;
+  return 1;
 }
