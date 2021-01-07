@@ -14,6 +14,7 @@ public:
 };
 
 int DateTime::sth = 0;
+int a;
 
 int main() {
   DateTime dt, dt1(2020, 3, 27, 10, 40, 55);
